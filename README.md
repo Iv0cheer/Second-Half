@@ -2,7 +2,7 @@
 
 # Lab Works:
 
-[Задания по лекции](/Lection%20Tasks%201.1.ipynb).
+[Задания по лекции](/LectionT.ipynb).
 
 [1.1 Создание простых классов](/Task_1_1.ipynb).
 
