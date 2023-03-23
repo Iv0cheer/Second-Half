@@ -28,5 +28,5 @@
 
 
 <div align="center">
-  <img src="https/media.tenor.com/ZblfUV4T1y0AAAPo/press-f-f-discord.mp4" width="600" height="300"/>
+  <img src="https://media.tenor.com/ZblfUV4T1y0AAAPo/press-f-f-discord.mp4" width="600" height="300"/>
 </div>
