@@ -28,5 +28,5 @@
 
 
 <div align="center">
-  <img src="https://images-ext-1.discordapp.net/external/P0cYx9R-Rb3Hc9Q_S3pOyTbWFUHpZ2LF5W1yktSwvxc/https/media.tenor.com/ZblfUV4T1y0AAAPo/press-f-f-discord.mp4" width="600" height="300"/>
+  <img src="https/media.tenor.com/ZblfUV4T1y0AAAPo/press-f-f-discord.mp4" width="600" height="300"/>
 </div>
