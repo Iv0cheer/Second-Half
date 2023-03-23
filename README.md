@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://tenor.com/view/coding-kira-lena-urzendowsky-how-to-sell-drugs-online-fast-hacking-gif-17761682" width="600" height="300"/>
+  <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="600" height="300"/>
 </div>
 
 # Lab Works:
