@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="600" height="300"/>
 </div>
 
-# Lab Works:
+# ✍ Lab Works:
 
 ### First Task:
 > [Учебный материал №1](/LectionT.ipynb).
