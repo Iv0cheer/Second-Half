@@ -24,9 +24,3 @@
 > [Учебный материал №3](/Lection_3sm.ipynb).
 >
 > [3.1 Инкапсуляция](/Task_3_1.ipynb).
-
-
-
-<div align="center">
-  <img src="https://media.tenor.com/ZblfUV4T1y0AAAPo/press-f-f-discord.mp4" width="600" height="300"/>
-</div>
