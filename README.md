@@ -1,5 +1,3 @@
-# Second-Half
-
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=ecf05e478l8266nysrnv948q4fjky8woas1prwea8b9w25e7&rid=giphy.gif&ct=g" width="100"/>
 </div>
