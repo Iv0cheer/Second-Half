@@ -32,8 +32,9 @@
 
 
 
-
-```fix
-Moscow City University
-Copyright (c) 2021
-```
+<div align="center">
+  ```fix
+  Moscow City University
+  2023
+  ```
+</div>
