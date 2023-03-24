@@ -2,9 +2,9 @@
   <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="600" height="300"/>
 </div>
 
-# ✍ **Lab Works:**
+# ✍ __**Lab Works:**__
 
-### First Task:
+### *First Task:*
 > [Учебный материал №1](/LectionT.ipynb).
 >
 > * [1.1 Создание простых классов](/Task_1_1_1.ipynb).
@@ -29,6 +29,7 @@
 > * [Учебный Материал №4](/Lection_4sm.ipynb).
 > 
 > * [4.1 Полиморфизм](/Task_4_1.ipynb).
+
 
 
 
