@@ -24,7 +24,6 @@
 > * [Учебный материал №3](/Lection_3sm.ipynb).
 > >
 > > * [3.1 Инкапсуляция](/Task_3_1.ipynb).
-> > > [Защита](/Defend_3.md).
 
 #### *Fourth Task:*
 > * [Учебный Материал №4](/Lection_4sm.ipynb).
