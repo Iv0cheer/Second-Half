@@ -24,3 +24,8 @@
 > * [Учебный материал №3](/Lection_3sm.ipynb).
 >
 > * [3.1 Инкапсуляция](/Task_3_1.ipynb).
+
+```
+Moscow City University
+Copyright (c) 2021
+```
