@@ -33,8 +33,6 @@
 
 
 <div align="center">
-  ```fix
-  Moscow City University
-  2023
-  ```
+  `Moscow City University`
+  `2023`
 </div>
