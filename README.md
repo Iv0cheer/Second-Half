@@ -32,7 +32,7 @@
 
 
 
-<div align="right">
+<div align="center">
   Moscow City University
   
   2023
