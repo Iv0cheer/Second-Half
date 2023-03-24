@@ -14,18 +14,18 @@
 > * [1.3 Методы класса](/Task_1_3.ipynb).
 
 
-### Second Task:
+### *Second Task:*
 > * [Учебный материал №2](/Lection_2sm.ipynb).
 >
 > * [2.1 Наследование](/Task_2_1.ipynb).
 
 
-### Third Task:
+### *Third Task:*
 > * [Учебный материал №3](/Lection_3sm.ipynb).
 >
 > * [3.1 Инкапсуляция](/Task_3_1.ipynb).
 
-### Fourth Task:
+### *Fourth Task:*
 > * [Учебный Материал №4](/Lection_4sm.ipynb).
 > 
 > * [4.1 Полиморфизм](/Task_4_1.ipynb).
