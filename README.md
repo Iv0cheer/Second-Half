@@ -25,7 +25,7 @@
 >
 > * [3.1 Инкапсуляция](/Task_3_1.ipynb).
 
-```
+```fix
 Moscow City University
 Copyright (c) 2021
 ```
