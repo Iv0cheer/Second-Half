@@ -25,6 +25,13 @@
 >
 > * [3.1 Инкапсуляция](/Task_3_1.ipynb).
 
+### Fourth Task:
+> * [Учебный Материал №4](/Lection_4sm.ipynb).
+> 
+> * [4.1 Полиморфизм](/Task_4_1.ipynb).
+
+
+
 ```fix
 Moscow City University
 Copyright (c) 2021
