@@ -30,6 +30,8 @@
 > >
 > > * [4.1 Полиморфизм](/Task_4_1.ipynb).
 
+### *Individual Tasks:*
+> * [Индивидуальное задание №1](/Individual.ipynb)
 
 
 <div align="center">
