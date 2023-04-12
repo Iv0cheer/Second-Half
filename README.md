@@ -1,5 +1,5 @@
 <!-- <div align="center">
-  <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="600" height="300">
+  <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="1200" height="300">
 </div> -->
 
 <a href="https://github.com/Iv0cheer?tab=repositories">
