@@ -2,6 +2,11 @@
   <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="600" height="300"/>
 </div>
 
+<div class="badge">
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/011/811/864/small/gold-wavy-circle-badge-free-png.png" alt="Badge icon">
+  <span>Badge</span>
+</div>
+
 # ✍ __**Lab Works:**__
 
 #### *First Task:*
