@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="600" height="300"/>
+  <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="600" height="300">
 </div>
 
 <a href="https://github.com/Iv0cheer?tab=repositories">
-  <div align="center">
-    <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="600" height="300"/>
-  </div>
+  <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="600" height="300" align="center">
 </a>
 
 <div class="badge" align="center">
