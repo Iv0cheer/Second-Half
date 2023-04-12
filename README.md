@@ -22,7 +22,7 @@
 	}
 </style> -->
 
-<div class="circle" width="150" height="150" background-color="#EFEFEF" display="flex" align="center">
+<div class="circle" width="150" height="150" background-color="#FF5733" display="flex" align="center">
   <img src="https://freepngimg.com/thumb/categories/1402.png" alt="Python Badge" max-width="100%" max-height="100%" border-radius="50%">
 </div>
 
