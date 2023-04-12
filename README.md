@@ -4,9 +4,30 @@
   </a>
 </div>
 
-<div class="badge" align="center" color="white">
-  <img src="https://freepngimg.com/thumb/categories/1402.png" alt="Python Badge">
+<div class="circle" align="center">
+  <img src="https://freepngimg.com/thumb/categories/1402.png">
+  <style>
+    .circle {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #EFEFEF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+
+.circle img {
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 50%;
+  }
+  </style>
 </div>
+
+<!-- <div class="badge" align="center" color="white">
+  <img src="https://freepngimg.com/thumb/categories/1402.png" alt="Python Badge">
+</div> -->
 
 # ✍ __**Lab Works:**__
 
