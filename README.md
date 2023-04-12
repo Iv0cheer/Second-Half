@@ -26,13 +26,6 @@
   <img src="https://via.placeholder.com/150" alt="Placeholder Image">
 </div>
 
-
-	<div class="circle">
-	  <img src="https://via.placeholder.com/150" alt="Placeholder Image">
-	</div>
-</body>
-</html>
-
 <!-- <div class="badge" align="center" color="white">
   <img src="https://freepngimg.com/thumb/categories/1402.png" alt="Python Badge">
 </div> -->
