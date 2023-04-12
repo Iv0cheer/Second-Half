@@ -6,15 +6,10 @@
   <img src="https://freepngimg.com/thumb/categories/1402.png" alt="Badge icon">
 </div>
 
-<style>
-  badge {
-    display: inline-block;
-    margin-right: 10px;
-    padding: 5px;
-    background-color: #eee;
-    border-radius: 10px;
-  }
-</style>
+<ul>
+  <li>Python</li>
+  <li>HTML/CSS</li>
+</ul>
 
 # ✍ __**Lab Works:**__
 
