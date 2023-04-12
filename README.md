@@ -2,8 +2,10 @@
   <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="600" height="300"/>
 </div>
 
-<a href="https://github.com/Iv0cheer?tab=repositories" align="center">
-  <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="600" height="300"/>
+<a href="https://github.com/Iv0cheer?tab=repositories">
+  <div align="center">
+    <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="600" height="300"/>
+  </div>
 </a>
 
 <div class="badge" align="center">
