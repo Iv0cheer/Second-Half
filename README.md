@@ -6,6 +6,16 @@
   <img src="https://freepngimg.com/thumb/categories/1402.png" alt="Badge icon">
 </div>
 
+<style>
+  badge {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 5px;
+    background-color: #eee;
+    border-radius: 10px;
+  }
+</style>
+
 # ✍ __**Lab Works:**__
 
 #### *First Task:*
