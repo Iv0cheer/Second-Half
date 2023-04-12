@@ -3,8 +3,7 @@
 </div>
 
 <div class="badge">
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/011/811/864/small/gold-wavy-circle-badge-free-png.png" alt="Badge icon">
-  <span>Badge</span>
+  <img src="https://freepngimg.com/thumb/categories/1402.png" alt="Badge icon">
 </div>
 
 # ✍ __**Lab Works:**__
