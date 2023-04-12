@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<div class="badge" align="center">
+<div class="badge" align="center" color="white">
   <img src="https://freepngimg.com/thumb/categories/1402.png" alt="Python Badge">
 </div>
 
