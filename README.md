@@ -1,13 +1,13 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="600" height="300">
-</div>
+</div> -->
 
 <a href="https://github.com/Iv0cheer?tab=repositories">
-  <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="600" height="300" align="center">
+  <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="600" height="300">
 </a>
 
 <div class="badge" align="center">
-  <img src="https://freepngimg.com/thumb/categories/1402.png" alt="Badge icon">
+  <img src="https://freepngimg.com/thumb/categories/1402.png" alt="Python Badge">
 </div>
 
 # ✍ __**Lab Works:**__
