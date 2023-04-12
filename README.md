@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<style>
+<!-- <style>
 	.circle {
 	  width: 150px;
 	  height: 150px;
@@ -20,9 +20,9 @@
 	  max-height: 100%;
 	  border-radius: 50%;
 	}
-</style>
+</style> -->
 
-<div class="circle">
+<div class="circle" width="150" height="150" background-color="#EFEFEF" display="flex" align="center">
   <img src="https://via.placeholder.com/150" alt="Placeholder Image">
 </div>
 
