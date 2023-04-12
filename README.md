@@ -6,11 +6,6 @@
   <img src="https://freepngimg.com/thumb/categories/1402.png" alt="Badge icon">
 </div>
 
-<ul>
-  <li><a href="https://github.com/Iv0cheer/Second-Half/edit/main/README.md">GitHub</a></li>
-  <li><a href="your-linkedin-url">LinkedIn</a></li>
-</ul>
-
 # ✍ __**Lab Works:**__
 
 #### *First Task:*
