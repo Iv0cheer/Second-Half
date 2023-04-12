@@ -2,12 +2,6 @@
   <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="600" height="300"/>
 </div>
 
-a {
-  color: #0366d6;
-  text-decoration: none;
-  border-bottom: 1px solid #0366d6; 
-}
-
 # ✍ __**Lab Works:**__
 
 #### *First Task:*
@@ -39,6 +33,11 @@ a {
 ### *Individual Tasks:*
 > * [Индивидуальное задание №1](/Individual.ipynb)
 > * [Индивидуальное задание №2](/Individual_2.ipynb)
+
+| Заголовок 1 | Заголовок 2 |
+| ----------- | ----------- |
+| Содержимое 1 | Содержимое 2 |
+| Содержимое 3 | Содержимое 4 |
 
 
 <div align="center">
