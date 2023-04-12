@@ -4,28 +4,29 @@
   </a>
 </div>
 
-<html>
-<head>
-	<title>Пример с изображением в круге</title>
-	<style>
-		.circle {
-		  width: 150px;
-		  height: 150px;
-		  border-radius: 50%;
-		  background-color: #EFEFEF;
-		  display: flex;
-		  justify-content: center;
-		  align-items: center;
-		}
+<style>
+	.circle {
+	  width: 150px;
+	  height: 150px;
+	  border-radius: 50%;
+	  background-color: #EFEFEF;
+	  display: flex;
+	  justify-content: center;
+	  align-items: center;
+	}
 
-		.circle img {
-		  max-width: 100%;
-		  max-height: 100%;
-		  border-radius: 50%;
-		}
-	</style>
-</head>
-<body>
+	.circle img {
+	  max-width: 100%;
+	  max-height: 100%;
+	  border-radius: 50%;
+	}
+</style>
+
+<div class="circle">
+  <img src="https://via.placeholder.com/150" alt="Placeholder Image">
+</div>
+
+
 	<div class="circle">
 	  <img src="https://via.placeholder.com/150" alt="Placeholder Image">
 	</div>
