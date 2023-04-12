@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/Iv0cheer?tab=repositories">
-    <img src="https://freepngimg.com/thumb/categories/1402.png" width="700" height="290">
+    <img src="https://freepngimg.com/thumb/categories/1402.png">
   </a>
 </div>
 
