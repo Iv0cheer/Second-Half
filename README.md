@@ -2,6 +2,12 @@
   <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="600" height="300"/>
 </div>
 
+a {
+  color: #0366d6;
+  text-decoration: none;
+  border-bottom: 1px solid #0366d6; 
+}
+
 # ✍ __**Lab Works:**__
 
 #### *First Task:*
