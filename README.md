@@ -4,26 +4,33 @@
   </a>
 </div>
 
-<div class="circle" align="center">
-  <img src="https://freepngimg.com/thumb/categories/1402.png">
-  <style>
-    .circle {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  background-color: #EFEFEF;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  }
+<html>
+<head>
+	<title>Пример с изображением в круге</title>
+	<style>
+		.circle {
+		  width: 150px;
+		  height: 150px;
+		  border-radius: 50%;
+		  background-color: #EFEFEF;
+		  display: flex;
+		  justify-content: center;
+		  align-items: center;
+		}
 
-.circle img {
-  max-width: 100%;
-  max-height: 100%;
-  border-radius: 50%;
-  }
-  </style>
-</div>
+		.circle img {
+		  max-width: 100%;
+		  max-height: 100%;
+		  border-radius: 50%;
+		}
+	</style>
+</head>
+<body>
+	<div class="circle">
+	  <img src="https://via.placeholder.com/150" alt="Placeholder Image">
+	</div>
+</body>
+</html>
 
 <!-- <div class="badge" align="center" color="white">
   <img src="https://freepngimg.com/thumb/categories/1402.png" alt="Python Badge">
