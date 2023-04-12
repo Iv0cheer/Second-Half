@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="700" height="290">
+  <a href="https://github.com/Iv0cheer?tab=repositories">
+    <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="700" height="290">
+  </a>
 </div>
-
-<a href="https://github.com/Iv0cheer?tab=repositories">
-  <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="600" height="300">
-</a>
 
 <div class="badge" align="center">
   <img src="https://freepngimg.com/thumb/categories/1402.png" alt="Python Badge">
