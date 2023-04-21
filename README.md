@@ -41,6 +41,7 @@
 ### *Individual Tasks:*
 > * [Индивидуальное задание №1](/Individual.ipynb)
 > * [Индивидуальное задание №2](/Individual_2.ipynb)
+> * [Индивидуальное задание №3](/Individual_3.ipynb)
 
 
 <div align="center">
